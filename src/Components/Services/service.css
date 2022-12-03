@@ -1,0 +1,58 @@
+.img-service {
+    padding: 40px 40px 0px 40px;
+}
+
+.service-section {
+    height: 100vh;
+    /* padding-top: 3rem;
+    padding-bottom: 3rem; */
+    background: radial-gradient(#e5e5e3,#ffff,#e5e5e5);
+}
+
+.service-section h2{
+    display: inline;
+    color: #4d4d4d;
+    border-bottom: 3px solid orange;
+}
+
+.service-section p{
+    font-size: 15px;
+    font-weight: 600;
+    color: #142952;
+}
+
+.card{
+    width: 16rem;
+    height: 25px;  
+}
+
+.card:hover{
+    box-shadow: 5px 10px 20px 1px rgba(0, 0, 0, 0.253)!important;
+
+}
+
+.card-body {
+    padding: 3rem 0 !important;
+}
+
+.card-text{
+    font-size: 0.9rem;
+    font-weight: 500;
+    padding: 0.4rem 1.9rem;
+}
+
+.container-fluid .row {
+    padding-top: 1rem;
+}
+
+.overflow{
+    overflow: hidden;
+}
+.card-img-top{
+    transform: scale(1);
+    transition: transform 0.5s ease;
+}
+
+.card-img-top:hover{
+    transform: scale(1.3);
+}

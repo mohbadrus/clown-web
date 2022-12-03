@@ -1,0 +1,16 @@
+.portofolio-section {
+  height: 100vh;
+  background: radial-gradient(#e5e5e3,#ffff,#e5e5e5);
+  box-shadow: 0px 2px 10px 0px #a6a6a6;
+}
+
+.portofolio-section h2 {
+  display: inline;
+  color: #4d4d4d;
+  border-bottom: 3px solid orange;
+}
+
+.carousel-inner > .carousel-item > .row > .img-size > img {
+    width:640px;
+    height:360px;
+  }
