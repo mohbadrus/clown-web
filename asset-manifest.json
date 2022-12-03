@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/clown-web/static/css/main.a2c9bdb9.css",
+    "main.js": "/clown-web/static/js/main.03aac0e0.js",
+    "static/media/bootstrap-icons.woff?": "/clown-web/static/media/bootstrap-icons.6959d0d983ee318f8880.woff",
+    "static/media/bootstrap-icons.woff2?": "/clown-web/static/media/bootstrap-icons.b2e5aab643c6f0fd2da6.woff2",
+    "static/media/back-about.jpg": "/clown-web/static/media/back-about.f9abdd879039ae42b785.jpg",
+    "index.html": "/clown-web/index.html",
+    "main.a2c9bdb9.css.map": "/clown-web/static/css/main.a2c9bdb9.css.map",
+    "main.03aac0e0.js.map": "/clown-web/static/js/main.03aac0e0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2c9bdb9.css",
+    "static/js/main.03aac0e0.js"
+  ]
+}
